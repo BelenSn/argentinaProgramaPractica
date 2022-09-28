@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Investigar ",
+      "day": "Febrero 5, a las 17:00 hs",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Tarea ",
+      "day": "dia x, a las xx:xx hs",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Estudiar BBD",
+      "day": "Lunes 7 de Febrero",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "tarea 1",
+      "day": "Lunes 7 de Febrero",
+      "reminder": false
+    }
+  ]
+}
